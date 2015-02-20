@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS408: Advanced Artificial Intelligence"
+course_description: "A detailed examination of the concepts and methods of artificial intelligence. Topics include heuristic search procedures for general graphs, game playing strategies, resolution and rule based deduction systems, knowledge representation, and reasoning with uncertainty."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Learning** <span id="4"></span> 
 *This unit presents an artificial neural network (NN) as the most
 important learning tool for machine learning.  Machine learning research

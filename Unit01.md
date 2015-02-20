@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS408: Advanced Artificial Intelligence"
+course_description: "A detailed examination of the concepts and methods of artificial intelligence. Topics include heuristic search procedures for general graphs, game playing strategies, resolution and rule based deduction systems, knowledge representation, and reasoning with uncertainty."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Intelligent Agents and Problems Of AI** <span id="1"></span> 
 *AI is often seen through the autonomous, rational intelligent agents
 paradigm, which we will emphasize in this unit.  This unit will begin by

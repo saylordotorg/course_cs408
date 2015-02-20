@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS408: Advanced Artificial Intelligence"
+course_description: "A detailed examination of the concepts and methods of artificial intelligence. Topics include heuristic search procedures for general graphs, game playing strategies, resolution and rule based deduction systems, knowledge representation, and reasoning with uncertainty."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Philosophical Foundations of AI** <span id="5"></span> 
 *In this unit, we will study the Turing machine as a definition of the
 intuitive notion of computability in the discrete domain.  In the theory

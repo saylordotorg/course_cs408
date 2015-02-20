@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS408: Advanced Artificial Intelligence"
+course_description: "A detailed examination of the concepts and methods of artificial intelligence. Topics include heuristic search procedures for general graphs, game playing strategies, resolution and rule based deduction systems, knowledge representation, and reasoning with uncertainty."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Solving Problems By Searching** <span id="2"></span> 
 *This unit will teach you how to build and search data structures needed
 to create software agents.  We will focus on graph structures and a few
