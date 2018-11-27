@@ -38,7 +38,7 @@ Upon successful completion of this unit, students will be able to:
 **3.1 Logic Programming** <span id="3.1"></span> 
 -   **Reading: Wikipedia’s “Logic Programming”**
     Link: Wikipedia’s “[Logic
-    Programming](http://www.saylor.org/site/wp-content/uploads/2012/06/Wikipedia-Logic-Programming.pdf)”
+    Programming](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Logic-Programming.pdf)”
     (PDF)  
         
      Instructions: Read this web page on logic programming. Make sure
@@ -132,7 +132,7 @@ id="3.2"></span> 
 **3.2.2 Hidden Markov Model** <span id="3.2.2"></span> 
 -   **Reading: Wikipedia’s “Hidden Markov Model”**
     Link: Wikipedia’s “[Hidden Markov
-    Model](http://www.saylor.org/site/wp-content/uploads/2012/06/Wikipedia-Hidden-Markov-Model.pdf)”
+    Model](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Hidden-Markov-Model.pdf)”
     (PDF)  
         
      Instructions: Read the linked entry above, which discusses the
@@ -150,7 +150,7 @@ id="3.2.3"></span> 
 **3.2.3.1 Kalman Filter** <span id="3.2.3.1"></span> 
 -   **Reading: Wikipedia’s “Kalman Filter”**
     Link: Wikipedia’s“ [Kalman
-    Filter](http://www.saylor.org/site/wp-content/uploads/2012/06/Wikipedia-Kalman-Filter.pdf)”
+    Filter](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Kalman-Filter.pdf)”
     (PDF)  
         
      Instructions: Read this entry on the Kalman Filter, paying
@@ -165,7 +165,7 @@ id="3.2.3"></span> 
 **3.2.3.2 Decision Theory** <span id="3.2.3.2"></span> 
 -   **Reading: Wikipedia’s “Decision Theory”**
     Link: Wikipedia’s “[Decision
-    Theory](http://www.saylor.org/site/wp-content/uploads/2012/06/Wikipedia-Decision-Theory.pdf)”
+    Theory](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Decision-Theory.pdf)”
     (PDF)  
         
      Instructions: Read this entry, making sure you understand the

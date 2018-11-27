@@ -42,7 +42,7 @@ Upon successful completion of this unit, students will be able to:
 **2.1.1 Graph Definition** <span id="2.1.1"></span> 
 -   **Reading: planetmath.org: Cameron McLeman’s “Graph"**
     Link: planetmath.org: Cameron McLeman’s
-    “[Graph](http://www.saylor.org/site/wp-content/uploads/2012/06/Graph.pdf)”
+    “[Graph](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Graph.pdf)”
     (PDF)  
         
      Instructions: Study the definition of a graph from this section and
@@ -60,7 +60,7 @@ Upon successful completion of this unit, students will be able to:
 **2.1.2 Binary Tree** <span id="2.1.2"></span> 
 -   **Reading: planetmath.org: Yann Lamontagne’s “Binary Tree"**
     Link: planetmath.org: Yann Lamontagne’s “[Binary
-    Tree](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.1.2-Binary-Trees.pdf)”
+    Tree](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.1.2-Binary-Trees.pdf)”
     (PDF)  
         
      Instructions: Make sure you know how a binary tree differs from a
@@ -80,7 +80,7 @@ id="2.1.3"></span> 
 -   **Reading: planetmath.org: Cameron McLeman’s “Minimum Spanning
     Tree"**
     Link: planetmath.org:Cameron McLeman’s “[Minimum Spanning
-    Tree](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.1.3-Minimum-Spanning-Tree.pdf)”
+    Tree](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.1.3-Minimum-Spanning-Tree.pdf)”
     (PDF)  
         
      Instructions: Read about minimum spanning trees and try to figure
@@ -107,7 +107,7 @@ id="2.1.3"></span> 
     “Binary Search Tree"**
     Link: The University of Auckland in New Zealand: John Morris’s
     “[Binary Search
-    Tree](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.2.1-Binary-Trees.pdf)”
+    Tree](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.2.1-Binary-Trees.pdf)”
     (PDF)  
         
      Instructions: Read the article to learn how to build and search
@@ -130,7 +130,7 @@ id="2.1.3"></span> 
     “Red-Black Trees"**
     Link: The University of Auckland in New Zealand: John Morris’s
     “[Red-Black
-    Trees](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.2.2-Red-BlackTrees.pdf)”
+    Trees](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.2.2-Red-BlackTrees.pdf)”
     (PDF)  
         
      Instructions: Please read the linked material above.  After reading
@@ -154,7 +154,7 @@ id="2.1.3"></span> 
 -   **Reading: The University of Auckland in New Zealand: John Morris’s
     “Skip Lists"**
     Link: The University ofAuckland in New Zealand: John Morris’s “[Skip
-    List](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.2.3-Skiplists.pdf)”
+    List](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.2.3-Skiplists.pdf)”
     (PDF)  
         
      Instructions: Please learn how to build and search a skip list by
@@ -176,7 +176,7 @@ id="2.1.3"></span> 
 **2.3.1 Depth-first Search** <span id="2.3.1"></span> 
 -   **Reading: Wikipedia’s “Depth-First Search"**
     Link: Wikipedia’s “[Depth-First
-    Search](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.2.1-Binary-Trees.pdf)”
+    Search](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.2.1-Binary-Trees.pdf)”
     (PDF)  
         
      Instructions: Read this entry to learn how depth-first search
@@ -194,7 +194,7 @@ id="2.1.3"></span> 
 **2.3.2 Breadth-First Search** <span id="2.3.2"></span> 
 -   **Reading: Wikipedia’s “Breadth-First Search"**
     Link: Wikipedia’s “[Breadth-First
-    Search](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.3.2-BreadthFirstSearch.pdf)”
+    Search](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.3.2-BreadthFirstSearch.pdf)”
     (PDF)  
         
      Instructions: Read this section and make sure you know the
@@ -213,7 +213,7 @@ id="2.1.3"></span> 
 **2.3.3 Dijkstra's Algorithm** <span id="2.3.3"></span> 
 -   **Reading: Wikipedia’s “Dijkstra's Algorithm"**
     Link: Wikipedia’s “[Dijkstra's
-    Algorithm](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-2.3.2-Dijkstras-algorithm.pdf)”
+    Algorithm](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-2.3.2-Dijkstras-algorithm.pdf)”
     (PDF)  
         
      Instructions: Read this entry to learn how Dijkstra's algorithm
@@ -231,7 +231,7 @@ id="2.1.3"></span> 
 **2.4 Search Algorithms in General** <span id="2.4"></span> 
 -   **Reading: Wikipedia’s “Search Algorithm”**
     Link: Wikipedia’s “[Search
-    Algorithm](http://www.saylor.org/site/wp-content/uploads/2012/06/Wikipedia-Search-Algorithm.pdf)”
+    Algorithm](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Search-Algorithm.pdf)”
     (PDF)  
         
      Instructions: Read the entry linked above for an overview of search
