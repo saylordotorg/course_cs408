@@ -113,7 +113,7 @@ id="1.1.7"></span> 
 **1.2 Overview of AI General Problems** <span id="1.2"></span> 
 -   **Reading: Wikipedia’s “Artificial Intelligence: Problems”**
     Link: Wikipedia’s “[Artificial Intelligence:
-    Problems](http://www.saylor.org/site/wp-content/uploads/2012/06/CS408-1.3-Artificial-Intelligence-Approaches.pdf)”
+    Problems](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS408-1.3-Artificial-Intelligence-Approaches.pdf)”
     (PDF)  
       
         
