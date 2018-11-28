@@ -36,7 +36,7 @@ Upon successful completion of this unit, students will be able to:
 **4.1 Machine Learning** <span id="4.1"></span> 
 -   **Reading: Wikipedia’s “Machine Learning”**
     Link: Wikipedia’s “[Machine
-    Learning](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Machine-Learning.pdf)”
+    Learning](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-Machine-Learning.pdf)”
     (PDF)  
         
      Instructions: Read this web page for an overview of machine
@@ -191,7 +191,7 @@ id="4.3"></span> 
 **4.3.1 Kernel Methods** <span id="4.3.1"></span> 
 -   **Reading: Wikipedia’s “Kernel Methods”**
     Link: Wikipedia’s “[Kernel
-    Methods](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Kernel-Methods.pdf)”
+    Methods](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-Kernel-Methods.pdf)”
     (PDF)  
         
      Instructions: Read this web page to review Kernel methods.  Focus
@@ -207,7 +207,7 @@ id="4.3"></span> 
 **4.3.2 k-nearest Neighbor Algorithm** <span id="4.3.2"></span> 
 -   **Reading: Wikipedia’s “k-nearest Neighbor Algorithm”**
     Link: Wikipedia’s “[k-nearest Neighbor
-    Algorithm](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-k-Nearest-Neighbor-Algorithm.pdf)”
+    Algorithm](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-k-Nearest-Neighbor-Algorithm.pdf)”
     (PDF)  
         
      Instructions: Make sure you know how the k-nearest neighbor
@@ -223,7 +223,7 @@ id="4.3"></span> 
 **4.3.3 Mixture Model** <span id="4.3.3"></span> 
 -   **Reading: Wikipedia’s “Mixture Model”**
     Link: Wikipedia’s “[Mixture
-    Model](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Mixture-Model.pdf)”
+    Model](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-Mixture-Model.pdf)”
     (PDF)  
         
      Instructions: Read this web page to learn about the different types
@@ -240,7 +240,7 @@ id="4.3"></span> 
 **4.3.4 Naive Bayes Classifier** <span id="4.3.4"></span> 
 -   **Reading: Wikipedia’s “Naive Bayes Classifier”**
     Link: Wikipedia’s “[Naive Bayes
-    Classifier](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Naive-Bayes-Classifier.pdf)”
+    Classifier](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-Naive-Bayes-Classifier.pdf)”
     (PDF)  
         
      Instructions: After reading the linked material, make sure you know
@@ -256,7 +256,7 @@ id="4.3"></span> 
 **4.3.5 Decision Tree** <span id="4.3.5"></span> 
 -   **Reading: Wikipedia’s “Decision Tree”**
     Link: Wikipedia’s “[Decision
-    Tree](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Wikipedia-Decision-Tree.pdf)”
+    Tree](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Wikipedia-Decision-Tree.pdf)”
     (PDF)  
         
      Instructions: Read this entry; you should be able to define the
